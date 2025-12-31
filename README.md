@@ -7,4 +7,6 @@
 $${\color{green}Green}$$
 
 
+$\color{Blue}{\textbf{Normal, Bold and colored text}}$
+
 <span style="color:red">Test</span>
