@@ -2,6 +2,6 @@
 
 ## This is a test README.md
 
-<style>p{color:Blue;}</style>
+<code style="color : Green">text</code>
 
 <span style="color:red">Test</span>
