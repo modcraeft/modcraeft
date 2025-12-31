@@ -4,4 +4,7 @@
 
 <code style="color : green">text</code>
 
+$${\color{green}Green}$$
+
+
 <span style="color:red">Test</span>
